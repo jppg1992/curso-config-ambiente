@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jppg1992/curso-config-ambiente/issues"
   },
-  "homepage": "https://github.com/jppg1992/curso-config-ambiente#readme"
+  "homepage": "https://github.com/jppg1992/curso-config-ambiente#readme",
+  "dependencies": {
+    "eslint": "^8.27.0"
+  }
 }
