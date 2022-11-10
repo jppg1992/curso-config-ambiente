@@ -1,0 +1,20 @@
+{
+  "name": "curso-config-ambiente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jppg1992/curso-config-ambiente.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jppg1992/curso-config-ambiente/issues"
+  },
+  "homepage": "https://github.com/jppg1992/curso-config-ambiente#readme"
+}
